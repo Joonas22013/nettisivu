@@ -7,7 +7,7 @@ header {
 }
 .body-rengaskaivo{
     margin: auto;
-    background-image: url(../assets/photo15.jpg);
+    background-image: "../assets/photo15.jpg)";
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
